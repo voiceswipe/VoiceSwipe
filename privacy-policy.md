@@ -1,39 +1,39 @@
-# Política de Privacidad — Voice Swipe
+# Privacy Policy — Voice Swipe
 
-*Última actualización: marzo 2026*
+*Last updated: March 2026*
 
 ---
 
-## 1. Información que recopilamos
+## 1. Information We Collect
 
-Voice Swipe no recopila, almacena ni transmite datos personales de ningún tipo. La app no requiere registro ni cuenta de usuario.
+Voice Swipe does not collect, store, or transmit any personal data of any kind. The app does not require registration or a user account.
 
-## 2. Uso del micrófono
+## 2. Microphone Usage
 
-Voice Swipe solicita permiso de acceso al micrófono exclusivamente para reconocer comandos de voz. El audio captado por el micrófono se procesa en tiempo real directamente en el dispositivo usando las bibliotecas Vosk y Silero VAD. El audio nunca se graba, almacena ni envía a servidores externos.
+Voice Swipe requests permission to access the microphone exclusively to recognize voice commands. Audio captured by the microphone is processed in real time directly on the device using the Vosk and Silero VAD libraries. The audio is never recorded, stored, or sent to external servers.
 
-## 3. Procesamiento local
+## 3. Local Processing
 
-Todo el reconocimiento de voz ocurre completamente en el dispositivo (on-device). Voice Swipe no requiere conexión a internet para funcionar, excepto para la descarga inicial de paquetes de idioma adicionales desde GitHub.
+All voice recognition occurs entirely on the device (on-device). Voice Swipe does not require an internet connection to function, except for the initial download of additional language packages from GitHub.
 
-## 4. Datos de uso
+## 4. Usage Data
 
-Voice Swipe no recopila estadísticas de uso, datos de diagnóstico ni ningún otro tipo de información analítica.
+Voice Swipe does not collect usage statistics, diagnostic data, or any other type of analytics information.
 
-## 5. Terceros
+## 5. Third Parties
 
-Voice Swipe utiliza las siguientes bibliotecas de código abierto:
+Voice Swipe uses the following open-source libraries:
 
-- **Vosk** — Motor de reconocimiento de voz (Apache License 2.0)
-- **Silero VAD** — Detección de actividad de voz (MIT License)
+- **Vosk** — Speech recognition engine (Apache License 2.0)
+- **Silero VAD** — Voice activity detection (MIT License)
 
-Estas bibliotecas operan completamente en el dispositivo y no transmiten datos.
+These libraries operate entirely on the device and do not transmit data.
 
-## 6. Cambios en esta política
+## 6. Changes to This Policy
 
-Cualquier cambio en esta política se notificará mediante una actualización de la app en Google Play.
+Any changes to this policy will be communicated through an update of the app on Google Play.
 
-## 7. Contacto
+## 7. Contact
 
-Para preguntas o comentarios sobre esta política de privacidad:
+For questions or comments regarding this privacy policy:
 [voiceswipe@gmail.com](mailto:voiceswipe@gmail.com)
