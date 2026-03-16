@@ -1,39 +1,39 @@
-# Política de Privacidad — Voice Swipe
+# سياسة الخصوصية — Voice Swipe
 
-*Última actualización: marzo 2026*
+*آخر تحديث: مارس 2026*
 
 ---
 
-## 1. Información que recopilamos
+## 1. المعلومات التي نقوم بجمعها
 
-Voice Swipe no recopila, almacena ni transmite datos personales de ningún tipo. La app no requiere registro ni cuenta de usuario.
+لا يقوم Voice Swipe بجمع أو تخزين أو نقل أي نوع من البيانات الشخصية. لا يتطلب التطبيق أي تسجيل أو إنشاء حساب مستخدم.
 
-## 2. Uso del micrófono
+## 2. استخدام الميكروفون
 
-Voice Swipe solicita permiso de acceso al micrófono exclusivamente para reconocer comandos de voz. El audio captado por el micrófono se procesa en tiempo real directamente en el dispositivo usando las bibliotecas Vosk y Silero VAD. El audio nunca se graba, almacena ni envía a servidores externos.
+يطلب Voice Swipe إذن الوصول إلى الميكروفون فقط للتعرّف على الأوامر الصوتية. يتم معالجة الصوت الذي يلتقطه الميكروفون في الوقت الفعلي مباشرةً على الجهاز باستخدام مكتبات Vosk وSilero VAD. لا يتم تسجيل الصوت أو تخزينه أو إرساله إلى خوادم خارجية.
 
-## 3. Procesamiento local
+## 3. المعالجة المحلية
 
-Todo el reconocimiento de voz ocurre completamente en el dispositivo (on-device). Voice Swipe no requiere conexión a internet para funcionar, excepto para la descarga inicial de paquetes de idioma adicionales desde GitHub.
+تتم جميع عمليات التعرّف على الصوت بالكامل على الجهاز (on-device). لا يتطلب Voice Swipe اتصالاً بالإنترنت للعمل، باستثناء التنزيل الأولي لحزم اللغات الإضافية من GitHub.
 
-## 4. Datos de uso
+## 4. بيانات الاستخدام
 
-Voice Swipe no recopila estadísticas de uso, datos de diagnóstico ni ningún otro tipo de información analítica.
+لا يقوم Voice Swipe بجمع إحصائيات الاستخدام أو بيانات التشخيص أو أي نوع آخر من المعلومات التحليلية.
 
-## 5. Terceros
+## 5. الأطراف الثالثة
 
-Voice Swipe utiliza las siguientes bibliotecas de código abierto:
+يستخدم Voice Swipe مكتبات مفتوحة المصدر التالية:
 
-- **Vosk** — Motor de reconocimiento de voz (Apache License 2.0)
-- **Silero VAD** — Detección de actividad de voz (MIT License)
+- **Vosk** — محرك التعرّف على الكلام (Apache License 2.0)  
+- **Silero VAD** — كشف نشاط الصوت (MIT License)
 
-Estas bibliotecas operan completamente en el dispositivo y no transmiten datos.
+تعمل هذه المكتبات بالكامل على الجهاز ولا تقوم بنقل أي بيانات.
 
-## 6. Cambios en esta política
+## 6. التغييرات على هذه السياسة
 
-Cualquier cambio en esta política se notificará mediante una actualización de la app en Google Play.
+سيتم الإبلاغ عن أي تغييرات في هذه السياسة من خلال تحديث التطبيق على Google Play.
 
-## 7. Contacto
+## 7. الاتصال
 
-Para preguntas o comentarios sobre esta política de privacidad:
+للاستفسارات أو التعليقات حول سياسة الخصوصية هذه:  
 [voiceswipe@gmail.com](mailto:voiceswipe@gmail.com)
