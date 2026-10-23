@@ -65,7 +65,3 @@ Se esta política mudar, você verá isso numa atualização do app no Google Pl
 ## 11. Contato
 
 Para dúvidas ou comentários sobre esta política de privacidade: [voiceswipe@gmail.com](mailto:voiceswipe@gmail.com)
-## 7. Contato
-
-Para perguntas ou comentários sobre esta política de privacidade:  
-[voiceswipe@gmail.com](mailto:voiceswipe@gmail.com)
